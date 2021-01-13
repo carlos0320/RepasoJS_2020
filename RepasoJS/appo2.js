@@ -25,7 +25,7 @@ function elMayor(array) {
     return mayor;
 }
 
-let n = Number(prompt(("ingrese por favor la cantidad de elementos del arreglo")));
+let n = aleatorios();
 let array = [];
 let mayorValor = 0;
 

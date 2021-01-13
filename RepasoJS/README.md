@@ -2,5 +2,6 @@
 
 :smiley:
 :computer:
+:metal:
 
 Desarrollo del taller de repaso en el lenguaje de Javascript referente a manejo de listas, matrices y objetos 

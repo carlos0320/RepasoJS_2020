@@ -30,7 +30,7 @@ function diagonal(arrayM) {
 }
 
 
-let nMatriz = Number(prompt("ingrese por favor la cantidad de elementos de la matriz cuadrada (mismo numero de filas y columnas)"));
+let nMatriz = aleatorios();
 let matriz = [];
 let matrizInt = [];
 let arrDiagonal = [];
